@@ -1,0 +1,6 @@
+fazer o controle de exececao
+fazer as validacoes e adicionar no controle de exceccao
+aplicar a maturidade hateoas para os posts
+aplicar o open api
+aplicar o actuator
+aplicar melhores praticas de versionamento
